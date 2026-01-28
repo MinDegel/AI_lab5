@@ -1,0 +1,4 @@
+﻿model_name,val_f1,val_acc,val_loss,hyperparams
+LateFusion,0.5782970896894948,0.69125,0.9725685846805573,"{'batch_size': 16, 'lr': 1e-05, 'dropout_rate': 0.5, 'epochs': 6, 'val_f1': 0.6046925524088782}"
+EarlyFusion,0.5045989359699612,0.6825,0.998889941573143,"{'batch_size': 16, 'lr': 1e-05, 'dropout_rate': 0.5, 'epochs': 6, 'val_f1': 0.6046925524088782}"
+CrossAttentionFusion,0.43967591641099396,0.59875,0.8722379541397095,"{'batch_size': 16, 'lr': 1e-05, 'dropout_rate': 0.5, 'epochs': 6, 'val_f1': 0.6046925524088782}"
