@@ -1,0 +1,9 @@
+torch==1.12.0
+torchvision==0.13.0
+transformers==4.24.0
+pandas==1.5.3
+scikit-learn==1.2.2
+numpy==1.23.5
+pillow==9.3.0
+tqdm==4.64.1
+json5==0.9.14
